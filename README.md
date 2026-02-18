@@ -5,7 +5,7 @@ I’m a curious and driven tech enthusiast who believes technology is not just a
 
 I don’t just like using technology; I like understanding how it works at the core level. From sensors and microcontrollers to cloud platforms and mobile applications, I enjoy working across the full stack of modern tech systems.
 
-👨‍💻 About Me
+**👨‍💻 About Me**
 
 🔭 I’m currently working on
 Multiple real-world projects involving IoT safety systems, smart automation, Android & Web applications, and embedded electronics. My focus is on building systems that are practical, reliable, and scalable—especially in areas like safety, monitoring, and smart infrastructure.
@@ -25,13 +25,13 @@ IoT automation, ESP8266 / ESP32, sensors & actuators, Android app development, F
 ⚡ Fun fact
 I often break my own projects intentionally—because fixing them teaches me more than building them the first time.
 
-🧠 My Mindset
+**🧠 My Mindset**
 
 I believe learning never stops. I prefer deep understanding over shortcuts and hands-on building over theory alone. I’m not afraid of making mistakes—because every failure sharpens my skills and mindset.
 
 My goal is to grow into a professional who can design, build, and secure intelligent systems that are reliable in real-world conditions, not just on paper.
 
-🚀 Vision
+**🚀 Vision**
 
 In the long run, I aim to work on impactful technology—whether through a strong tech company, research, or my own startup—where innovation, responsibility, and problem-solving go hand in hand.
 
@@ -50,4 +50,5 @@ In the long run, I aim to work on impactful technology—whether through a stron
 [![](https://visitcount.itsvg.in/api?id=gogulgupta&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
